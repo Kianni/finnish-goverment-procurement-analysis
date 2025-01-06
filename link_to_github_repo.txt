@@ -1,0 +1,2 @@
+tämä on projektin sivu, eli loppullinen raportti https://kianni.github.io/finnish-goverment-procurement-analysis/
+tämä on projektin repo https://github.com/Kianni/finnish-goverment-procurement-analysis
